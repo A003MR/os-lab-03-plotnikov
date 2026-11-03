@@ -20,4 +20,4 @@
 *   `Ctrl+Z` посылает **SIGTSTP** (приостановить процесс).
 
 ## Скриншоты
-*   Скриншот работы с сигналами: `screenshots/04-signals.png`
+*   ![Сигналы](screenshots/04-signals.png)`
